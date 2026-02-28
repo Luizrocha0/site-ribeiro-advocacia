@@ -36,7 +36,7 @@ export default function Hero() {
         
         <div className="flex flex-col sm:flex-row gap-4 items-center mt-4">
           <a 
-            href="https://wa.me/5581964449009" 
+            href="https://wa.me/5581996444900" 
             target="_blank" 
             rel="noreferrer" 
             className="group bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-400 hover:to-amber-500 
