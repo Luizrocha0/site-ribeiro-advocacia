@@ -18,7 +18,7 @@ export default function Footer() {
                 <Scale className="text-amber-500" size={26} strokeWidth={1.5} />
               </div>
               <div className="flex flex-col justify-center">
-                <span className="text-2xl font-black text-white leading-none tracking-tighter">ROCHA</span>
+                <span className="text-2xl font-black text-white leading-none tracking-tighter">RIBEIRO</span>
                 <span className="text-[0.65rem] font-bold text-amber-600 tracking-[0.35em] uppercase mt-0.5">Advocacia</span>
               </div>
             </div>
