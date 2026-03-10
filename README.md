@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ⚖️ Ribeiro Advocacia - Landing Page Profissional
 
-## Getting Started
+Uma Landing Page de alta performance, responsiva e otimizada para SEO, desenvolvida para o escritório **Ribeiro Advocacia**. O projeto foi focado em transmitir autoridade e facilitar o contato para clientes que buscam consultoria em Direito Médico, Direitos de Autistas/PCDs, Civil e Previdenciário.
 
-First, run the development server:
+O site atende estrategicamente as regiões de **Olinda/PE e Recife/PE**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Tecnologias Utilizadas
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Este projeto foi construído com o que há de mais moderno no ecossistema de desenvolvimento web:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* **Next.js 15**: Framework React para alta performance e otimização de busca (SEO).
+* **React**: Biblioteca para construção de interfaces componentes e dinâmicas.
+* **Tailwind CSS (v4)**: Estilização utilitária para um design responsivo e moderno.
+* **TypeScript**: Tipagem estática para maior segurança e qualidade do código.
+* **Lucide React**: Biblioteca de ícones consistente e leve.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Funcionalidades Principais
 
-## Learn More
+* 📱 **Design Responsivo**: Adaptado para uma experiência perfeita em dispositivos móveis, tablets e desktops.
+* 🎯 **SEO Local Otimizado**: Metadados configurados para ranqueamento em buscas por advogados em Pernambuco.
+* 💬 **Conversão via WhatsApp**: Botão flutuante animado para facilitar o contato imediato com o Dr. Wellington.
+* ⚡ **Performance**: Carregamento otimizado utilizando os recursos de Server-Side Rendering (SSR) do Next.js.
+* 🎨 **Interface Premium**: Uso de paleta de cores Dark/Amber, Glassmorphism e microinterações para passar confiança jurídica.
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Como executar o projeto localmente
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1.  **Clone o repositório**:
+    ```bash
+    git clone [https://github.com/Luizrocha0/site-ribeiro-advocacia.git](https://github.com/Luizrocha0/site-ribeiro-advocacia.git)
+    ```
+2.  **Instale as dependências**:
+    ```bash
+    npm install
+    ```
+3.  **Inicie o servidor de desenvolvimento**:
+    ```bash
+    npm run dev
+    ```
+4.  Acesse `http://localhost:3000` no seu navegador.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 👨‍💻 Desenvolvedor
 
-## Deploy on Vercel
+**Luiz Henrique Rocha**
+* **GitHub**: [Luizrocha0](https://github.com/Luizrocha0)
+* **LinkedIn**: [Luiz Henrique Rocha Silva](https://www.linkedin.com/in/luiz-henrique-rocha-silva-450362337/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*Este é o meu primeiro trabalho real como freelancer, desenvolvido para um familiar e publicado com foco em resultados reais de mercado.*
